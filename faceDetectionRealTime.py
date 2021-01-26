@@ -1,3 +1,6 @@
+# If you want to run this code in your pc or laptop you need to istall Python, any python interpreter (I used Pycharm) and openCV libray. 
+
+
 import cv2
 # Importing OpenCV library
 
