@@ -1,2 +1,2 @@
 # OpenCV_project
-Here is my all Computer Vision Project witj OpenCV
+Here is my all Computer Vision Project with OpenCV
